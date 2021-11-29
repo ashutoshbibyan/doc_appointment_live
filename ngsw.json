@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "/index.html",
+  "index": "./index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/inline.dc903ba876c788fd9817.bundle.js",
-        "/main.fe8c8cd077d02192e35f.bundle.js",
-        "/polyfills.687b712e58699bf658de.bundle.js",
-        "/styles.f3705b61dccd51a75130.bundle.css"
+        "./favicon.ico",
+        "./index.html",
+        "./inline.dc903ba876c788fd9817.bundle.js",
+        "./main.fe8c8cd077d02192e35f.bundle.js",
+        "./polyfills.687b712e58699bf658de.bundle.js",
+        "./styles.f3705b61dccd51a75130.bundle.css"
       ],
       "patterns": []
     },
@@ -21,37 +21,36 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        
-        "/doc_appointment_live/assets/bootstrap.css",
-        "/doc_appointment_live/assets/bootstrap.js",
-        "/doc_appointment_live/assets/default.png",
-        "/doc_appointment_live/assets/jquery-2.2.0.min.js",
-        "/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.eot",
-        "/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.svg",
-        "/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.ttf",
-        "/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.woff",
-        "/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.woff2"
+        "./assets/bootstrap.css",
+        "./assets/bootstrap.js",
+        "./assets/default.png",
+        "./assets/jquery-2.2.0.min.js",
+        "./assets/fonts/glyphicons-halflings-regular.eot",
+        "./assets/fonts/glyphicons-halflings-regular.svg",
+        "./assets/fonts/glyphicons-halflings-regular.ttf",
+        "./assets/fonts/glyphicons-halflings-regular.woff",
+        "./assets/fonts/glyphicons-halflings-regular.woff2"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-
-    "/inline.dc903ba876c788fd9817.bundle.js": "aa1202349c601b7c063a6bcbbbe3192d5755deb4",
-    "/doc_appointment_live/assets/bootstrap.css": "8b4afe4985fbef5675b83574cc06346bd7b0f332",
-    "/main.fe8c8cd077d02192e35f.bundle.js": "231b4b7a0487386ada52c8338741cc54d1439a82",
-    "/doc_appointment_live/assets/bootstrap.js": "8cf4186ce86777b4b408ce308ca9f66dd421f509",
-    "/polyfills.687b712e58699bf658de.bundle.js": "a1559b04369ed310991b9c6060b25a9107a44400",
-    "/doc_appointment_live/assets/default.png": "12eedd06ae60128dab1bc0456d496e8b1318de57",
-    "/styles.f3705b61dccd51a75130.bundle.css": "c9436be57cc686fc32fd3deedbfaa6a4ec3f5d2e",
-    "/doc_appointment_live/assets/jquery-2.2.0.min.js": "5d7e5bbfa540f0e53bd599e4305e1a4e815b5dd1",
-    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.eot": "86b6f62b7853e67d3e635f6512a5a5efc58ea3c3",
-    "/index.html": "4c01cb082d267bd7052085c6cd3974bb2d29c0bb",
-    "/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.svg": "de51a8494180a6db074af2dee2383f0a363c5b08",
-    "/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.ttf": "44bc1850f570972267b169ae18f1cb06b611ffa2",
-    "/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.woff": "278e49a86e634da6f2a02f3b47dd9d2a8f26210f",
-    "/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.woff2": "ca35b697d99cae4d1b60f2d60fcd37771987eb07"
+    
+    "./inline.dc903ba876c788fd9817.bundle.js": "aa1202349c601b7c063a6bcbbbe3192d5755deb4",
+    "./assets/bootstrap.css": "8b4afe4985fbef5675b83574cc06346bd7b0f332",
+    "./main.fe8c8cd077d02192e35f.bundle.js": "231b4b7a0487386ada52c8338741cc54d1439a82",
+    "./assets/bootstrap.js": "8cf4186ce86777b4b408ce308ca9f66dd421f509",
+    "./polyfills.687b712e58699bf658de.bundle.js": "a1559b04369ed310991b9c6060b25a9107a44400",
+    "./assets/default.png": "12eedd06ae60128dab1bc0456d496e8b1318de57",
+    "./styles.f3705b61dccd51a75130.bundle.css": "c9436be57cc686fc32fd3deedbfaa6a4ec3f5d2e",
+    "./assets/jquery-2.2.0.min.js": "5d7e5bbfa540f0e53bd599e4305e1a4e815b5dd1",
+    "./favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "./assets/fonts/glyphicons-halflings-regular.eot": "86b6f62b7853e67d3e635f6512a5a5efc58ea3c3",
+    "./index.html": "4c01cb082d267bd7052085c6cd3974bb2d29c0bb",
+    "./assets/fonts/glyphicons-halflings-regular.svg": "de51a8494180a6db074af2dee2383f0a363c5b08",
+    "./assets/fonts/glyphicons-halflings-regular.ttf": "44bc1850f570972267b169ae18f1cb06b611ffa2",
+    "./assets/fonts/glyphicons-halflings-regular.woff": "278e49a86e634da6f2a02f3b47dd9d2a8f26210f",
+    "./assets/fonts/glyphicons-halflings-regular.woff2": "ca35b697d99cae4d1b60f2d60fcd37771987eb07"
   }
 }
