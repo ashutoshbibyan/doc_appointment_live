@@ -21,15 +21,15 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/assets/bootstrap.css",
-        "/assets/bootstrap.js",
-        "/assets/default.png",
-        "/assets/jquery-2.2.0.min.js",
-        "/assets/fonts/glyphicons-halflings-regular.eot",
-        "/assets/fonts/glyphicons-halflings-regular.svg",
-        "/assets/fonts/glyphicons-halflings-regular.ttf",
-        "/assets/fonts/glyphicons-halflings-regular.woff",
-        "/assets/fonts/glyphicons-halflings-regular.woff2"
+        "/doc_appointment_live/assets/bootstrap.css",
+        "/doc_appointment_live/assets/bootstrap.js",
+        "/doc_appointment_live/assets/default.png",
+        "/doc_appointment_live/assets/jquery-2.2.0.min.js",
+        "/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.eot",
+        "/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.svg",
+        "/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.ttf",
+        "/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.woff",
+        "/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.woff2"
       ],
       "patterns": []
     }
