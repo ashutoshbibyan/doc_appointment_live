@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "/=https://ashutoshbibyan.github.io/doc_appointment_live/index.html",
+  "index": "https://ashutoshbibyan.github.io/doc_appointment_live/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/=https://ashutoshbibyan.github.io/doc_appointment_live/favicon.ico",
-        "/=https://ashutoshbibyan.github.io/doc_appointment_live/index.html",
-        "/=https://ashutoshbibyan.github.io/doc_appointment_live/inline.dc903ba876c788fd9817.bundle.js",
-        "/=https://ashutoshbibyan.github.io/doc_appointment_live/main.fe8c8cd077d02192e35f.bundle.js",
-        "/=https://ashutoshbibyan.github.io/doc_appointment_live/polyfills.687b712e58699bf658de.bundle.js",
-        "/=https://ashutoshbibyan.github.io/doc_appointment_live/styles.f3705b61dccd51a75130.bundle.css"
+        "https://ashutoshbibyan.github.io/doc_appointment_live/favicon.ico",
+        "https://ashutoshbibyan.github.io/doc_appointment_live/index.html",
+        "https://ashutoshbibyan.github.io/doc_appointment_live/inline.dc903ba876c788fd9817.bundle.js",
+        "https://ashutoshbibyan.github.io/doc_appointment_live/main.fe8c8cd077d02192e35f.bundle.js",
+        "https://ashutoshbibyan.github.io/doc_appointment_live/polyfills.687b712e58699bf658de.bundle.js",
+        "https://ashutoshbibyan.github.io/doc_appointment_live/styles.f3705b61dccd51a75130.bundle.css"
       ],
       "patterns": []
     },
@@ -21,35 +21,35 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/=https://ashutoshbibyan.github.io/doc_appointment_live/assets/bootstrap.css",
-        "/=https://ashutoshbibyan.github.io/doc_appointment_live/assets/bootstrap.js",
-        "/=https://ashutoshbibyan.github.io/doc_appointment_live/assets/default.png",
-        "/=https://ashutoshbibyan.github.io/doc_appointment_live/assets/jquery-2.2.0.min.js",
-        "/=https://ashutoshbibyan.github.io/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.eot",
-        "/=https://ashutoshbibyan.github.io/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.svg",
-        "/=https://ashutoshbibyan.github.io/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.ttf",
-        "/=https://ashutoshbibyan.github.io/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.woff",
-        "/=https://ashutoshbibyan.github.io/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.woff2"
+        "https://ashutoshbibyan.github.io/doc_appointment_live/assets/bootstrap.css",
+        "https://ashutoshbibyan.github.io/doc_appointment_live/assets/bootstrap.js",
+        "https://ashutoshbibyan.github.io/doc_appointment_live/assets/default.png",
+        "https://ashutoshbibyan.github.io/doc_appointment_live/assets/jquery-2.2.0.min.js",
+        "https://ashutoshbibyan.github.io/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.eot",
+        "https://ashutoshbibyan.github.io/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.svg",
+        "https://ashutoshbibyan.github.io/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.ttf",
+        "https://ashutoshbibyan.github.io/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.woff",
+        "https://ashutoshbibyan.github.io/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.woff2"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/=https://ashutoshbibyan.github.io/doc_appointment_live/inline.dc903ba876c788fd9817.bundle.js": "aa1202349c601b7c063a6bcbbbe3192d5755deb4",
-    "/=https://ashutoshbibyan.github.io/doc_appointment_live/assets/bootstrap.css": "8b4afe4985fbef5675b83574cc06346bd7b0f332",
-    "/=https://ashutoshbibyan.github.io/doc_appointment_live/main.fe8c8cd077d02192e35f.bundle.js": "231b4b7a0487386ada52c8338741cc54d1439a82",
-    "/=https://ashutoshbibyan.github.io/doc_appointment_live/assets/bootstrap.js": "8cf4186ce86777b4b408ce308ca9f66dd421f509",
-    "/=https://ashutoshbibyan.github.io/doc_appointment_live/polyfills.687b712e58699bf658de.bundle.js": "a1559b04369ed310991b9c6060b25a9107a44400",
-    "/=https://ashutoshbibyan.github.io/doc_appointment_live/assets/default.png": "12eedd06ae60128dab1bc0456d496e8b1318de57",
-    "/=https://ashutoshbibyan.github.io/doc_appointment_live/styles.f3705b61dccd51a75130.bundle.css": "c9436be57cc686fc32fd3deedbfaa6a4ec3f5d2e",
-    "/=https://ashutoshbibyan.github.io/doc_appointment_live/assets/jquery-2.2.0.min.js": "5d7e5bbfa540f0e53bd599e4305e1a4e815b5dd1",
-    "/=https://ashutoshbibyan.github.io/doc_appointment_live/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/=https://ashutoshbibyan.github.io/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.eot": "86b6f62b7853e67d3e635f6512a5a5efc58ea3c3",
-    "/=https://ashutoshbibyan.github.io/doc_appointment_live/index.html": "31a57ade40b9d9507124c21fee9a104d32492dc4",
-    "/=https://ashutoshbibyan.github.io/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.svg": "de51a8494180a6db074af2dee2383f0a363c5b08",
-    "/=https://ashutoshbibyan.github.io/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.ttf": "44bc1850f570972267b169ae18f1cb06b611ffa2",
-    "/=https://ashutoshbibyan.github.io/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.woff": "278e49a86e634da6f2a02f3b47dd9d2a8f26210f",
-    "/=https://ashutoshbibyan.github.io/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.woff2": "ca35b697d99cae4d1b60f2d60fcd37771987eb07"
+    "https://ashutoshbibyan.github.io/doc_appointment_live/inline.dc903ba876c788fd9817.bundle.js": "aa1202349c601b7c063a6bcbbbe3192d5755deb4",
+    "https://ashutoshbibyan.github.io/doc_appointment_live/assets/bootstrap.css": "8b4afe4985fbef5675b83574cc06346bd7b0f332",
+    "https://ashutoshbibyan.github.io/doc_appointment_live/main.fe8c8cd077d02192e35f.bundle.js": "231b4b7a0487386ada52c8338741cc54d1439a82",
+    "https://ashutoshbibyan.github.io/doc_appointment_live/assets/bootstrap.js": "8cf4186ce86777b4b408ce308ca9f66dd421f509",
+    "https://ashutoshbibyan.github.io/doc_appointment_live/polyfills.687b712e58699bf658de.bundle.js": "a1559b04369ed310991b9c6060b25a9107a44400",
+    "https://ashutoshbibyan.github.io/doc_appointment_live/assets/default.png": "12eedd06ae60128dab1bc0456d496e8b1318de57",
+    "https://ashutoshbibyan.github.io/doc_appointment_live/styles.f3705b61dccd51a75130.bundle.css": "c9436be57cc686fc32fd3deedbfaa6a4ec3f5d2e",
+    "https://ashutoshbibyan.github.io/doc_appointment_live/assets/jquery-2.2.0.min.js": "5d7e5bbfa540f0e53bd599e4305e1a4e815b5dd1",
+    "https://ashutoshbibyan.github.io/doc_appointment_live/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://ashutoshbibyan.github.io/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.eot": "86b6f62b7853e67d3e635f6512a5a5efc58ea3c3",
+    "https://ashutoshbibyan.github.io/doc_appointment_live/index.html": "dbfc8e1e41443aba0d75e6eb798979cbf97fecfc",
+    "https://ashutoshbibyan.github.io/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.svg": "de51a8494180a6db074af2dee2383f0a363c5b08",
+    "https://ashutoshbibyan.github.io/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.ttf": "44bc1850f570972267b169ae18f1cb06b611ffa2",
+    "https://ashutoshbibyan.github.io/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.woff": "278e49a86e634da6f2a02f3b47dd9d2a8f26210f",
+    "https://ashutoshbibyan.github.io/doc_appointment_live/assets/fonts/glyphicons-halflings-regular.woff2": "ca35b697d99cae4d1b60f2d60fcd37771987eb07"
   }
 }
